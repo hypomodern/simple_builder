@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mhw@hypomodern.com"]
   spec.summary       = %q{Simple, PORO object builder/updater service}
   spec.description   = %q{I got tired of reinventing a basic builder service in every project.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/hypomodern/simple_builder"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
